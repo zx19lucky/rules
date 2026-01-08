@@ -1,3 +1,6 @@
+payload:
+  - '1password.drift.click'
+  - '3dns-1.adobe.com'
   - 'www-cdn.icloud.com.akadns.net'
   - 'yangzhi.app'
   - 'yt3.googleusercontent.com'
